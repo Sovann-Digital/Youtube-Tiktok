@@ -4,15 +4,10 @@ Download video for free no water mark
 HOW TO USE
 
 1.If you start with no environment create by:
-``pyhton.exe -m venv venv``
+```bash pyhton.exe -m venv venv```
 2.Activate your environment:
-``venv\Script\activate``
+```bash venv\Script\activate```
 3.Install the requirements:
-``python -m pip install -r requirements.txt``
+```bash python -m pip install -r requirements.txt```
 4.Start Run The Script:
-``python main.py``
-```bash
-pyhton.exe -m venv venv
-venv\Script\activate
-python -m pip install -r requirements.txt
-python main.py
+```bash python main.py```
