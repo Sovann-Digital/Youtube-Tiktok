@@ -11,3 +11,8 @@ HOW TO USE
 ```bash python -m pip install -r requirements.txt
 4.Start Run The Script:
 ```bash python main.py
+```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
