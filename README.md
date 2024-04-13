@@ -19,3 +19,7 @@ python -m pip install -r requirements.txt
 ```
 python main.py
 ```
+
+
+if you have some issues with chrome browser open please check version chrome and the driver , if your version of chrome is correct with driver you have to set path in ``view Advanced system settings`` in your windows and add path driver to it.
+enjoy downloading o(*￣︶￣*)o
