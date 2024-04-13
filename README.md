@@ -6,12 +6,16 @@ HOW TO USE
 1.If you start with no environment create by:
 ```
 pyhton.exe -m venv venv
+```
 2.Activate your environment:
 ```
-bash venv\Script\activate
+venv\Script\activate
+```
 3.Install the requirements:
 ```
- python -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
+```
 4.Start Run The Script:
 ```
 python main.py
+```
