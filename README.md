@@ -11,4 +11,8 @@ HOW TO USE
 ``python -m pip install -r requirements.txt``
 4.Start Run The Script:
 ``python main.py``
-```python```
+```bash
+pyhton.exe -m venv venv
+venv\Script\activate
+python -m pip install -r requirements.txt
+python main.py
